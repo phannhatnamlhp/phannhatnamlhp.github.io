@@ -2,7 +2,7 @@
 layout: page
 title: Little Stars Science Club
 description: I have started this club since 2015.
-img: assets/img/3.jpg
+img: assets/img/snho.jpg
 importance: 2
 category: present
 permalink: projects/littlestarsscienceclub/
