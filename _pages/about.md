@@ -6,7 +6,7 @@ subtitle: Founder & Former President of Chicken Minds.
 
 profile:
   align: right
-  image: 3561=5x5.jpg
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>555 your office number</p>
