@@ -2,7 +2,7 @@
 layout: page
 title: 202X Dictionary
 description: The first book I am the co-author of.
-img: assets/img/7.jpg
+img: assets/img/202x-Nam_page-0001.jpg
 importance: 1
 category: past
 permalink: projects/202X-Dictionary
