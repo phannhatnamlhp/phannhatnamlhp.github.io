@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Little Stars Science Club
+description: I have started this club since 2015.
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: present
 ---
 
 Every project has a beautiful feature showcase page.
