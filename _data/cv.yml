@@ -19,16 +19,16 @@
       institution: Le Hong Phong High school For the Gifted (Vietnam) (Physics Honor)
       year: 2020 - 2023
       description:
-        - Rank 1 among high schools in Southern Vietnam (17% acceptance rate) 
-        - Honour Class Physics | Average GPA 8.7/10
-        - SAT Superscore 1460 (660 ERBW, 800 M) | Duolingo 130/160 
+        - <u>#1</u> among high schools in Southern Vietnam (17% acceptance rate) 
+        - Honour Class Physics | Average <u>GPA:</u> 8.7/10
+        - SAT <u>Superscore:</u> 1460 (660 ERBW, 800 M) | <u>Duolingo:</u> 130/160
 
     - title: Secondary School Diploma
       institution: Tran Dai Nghia High school For the Gifted (Vietnam)
       year: 2020 - 2023
       description:
-        - Top 1 secondary school in Southern Vietnam (<10% acceptance rate)
-        - GPA Grade 9 -  9.4/10.0 (A) 
+        - <u>#1</u> secondary school in Southern Vietnam (<10% acceptance rate)
+        - GPA Grade <u>9:</u> 9.4/10.0 (A) 
 
 - title: Experience
   type: time_table
@@ -43,23 +43,19 @@
         - Organise "Lớp học Bay" – a non-profit online class run by 150 members from gifted schools in Vietnam that instructs 300 9th-grade students in Literature, Mathematics, English, Chemistry, and Physics at the Honor level to enter gifted high schools and Tier 1 high schools in Vietnam. 
         - Reached 116,000+ people, attracted 60,000+ visits, 20,000+ followers on Facebook page in just 1 year. 
         - Hosted "Bít & Típ" – a podcast that invited 10 inspirational individuals in various fields, such as STEM education, culture, and literature, to share their journey to success. Gained 100,000+ views on Youtube.
-        - title: # Description 3.
-          contents:
-            - # Sub-description 1.
-            - # Sub-description 2.
     - title: Co-Founder, Co-President, Science Instructor 
-      institution: 202X Dictionary, VinUniversity, Vietnam
+      institution: Little Stars Science Club, Vietnam
       year: 2022
       description:
         - Organised 100+ science field trips and events to provide experimental STEM education programs for 2,000+ children countrywide from 6 to 15 years old. 
         - Made a profit of $10,000, distributed to organise non-profit STEM events for children in rural areas with limited involvement in STEM studies and buying necessities for students over the past 7 years. 
         - Created specialised programs to interact with 100 autistic science lovers from 6 to 15 years old. 
     - title: Co-Author in Business Section
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      institution: 202X Dictionary, VinUniversity, Vietnam.
+      year: 2022
       description:
-        - Book’s original name (in Vietnamese) -  ‘Từ điển 202X’, publisher - Alpha Books, in 2022.
-        - Article belongs to the Business section, topic - Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
+        - Book’s original name <u>(in Vietnamese):</u>  ‘Từ điển 202X’, <u>publisher:</ u> Alpha Books, in 2022.
+        - Article belongs to the Business section, <u>topic:</u> Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
 
     - title: Project Leader, Raisefunding Manager
       institution: Book & Friend Club
@@ -67,7 +63,7 @@
       description: 
         - Raisefunded 2,000+ books for Hon Chuoi island in 2016 and 500+ books for 10 community libraries.
         - Hosted 6 events to connect with readers and cultural organisations with 200+ participants per event.
-        - Featured in several reputational e-magazines and televisions in Vietnam - HTV, Tuoi Tre, Thanh Nien. 
+        - Featured in several reputational e-magazines and televisions in <u>Vietnam:/<u> HTV, Tuoi Tre, Thanh Nien. 
 
 # PAUSE PAGE 1, TEST PAGE
     - title: Associate Professor of Theoretical Physics
