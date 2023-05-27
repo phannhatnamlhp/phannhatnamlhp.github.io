@@ -14,22 +14,21 @@
     - title: Bachelor
       institution: University of South Florida, United States
       year: 2023 - 2027
-      description:
-        - 
+
     - title: High School Diploma
       institution: Le Hong Phong High school For the Gifted (Vietnam) (Physics Honor)
       year: 2020 - 2023
       description:
         - Rank 1 among high schools in Southern Vietnam (17% acceptance rate) 
-        - Honour Class: Physics | Average GPA: 8.7/10
-        - SAT Superscore: 1460 (660 ERBW, 800 M) | Duolingo: 130/160 
+        - Honour Class Physics | Average GPA 8.7/10
+        - SAT Superscore 1460 (660 ERBW, 800 M) | Duolingo 130/160 
 
     - title: Secondary School Diploma
       institution: Tran Dai Nghia High school For the Gifted (Vietnam)
       year: 2020 - 2023
       description:
         - Top 1 secondary school in Southern Vietnam (<10% acceptance rate)
-        - GPA Grade 9: 9.4/10.0 (A) 
+        - GPA Grade 9 -  9.4/10.0 (A) 
 
 - title: Experience
   type: time_table
@@ -59,8 +58,8 @@
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
       description:
-        - Book’s original name (in Vietnamese): ‘Từ điển 202X’, publisher: Alpha Books, in 2022.
-        - Article belongs to the Business section, topic: Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
+        - Book’s original name (in Vietnamese) -  ‘Từ điển 202X’, publisher - Alpha Books, in 2022.
+        - Article belongs to the Business section, topic - Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
 
     - title: Project Leader, Raisefunding Manager
       institution: Book & Friend Club
@@ -68,7 +67,7 @@
       description: 
         - Raisefunded 2,000+ books for Hon Chuoi island in 2016 and 500+ books for 10 community libraries.
         - Hosted 6 events to connect with readers and cultural organisations with 200+ participants per event.
-        - Featured in several reputational e-magazines and televisions in Vietnam: HTV, Tuoi Tre, Thanh Nien. 
+        - Featured in several reputational e-magazines and televisions in Vietnam - HTV, Tuoi Tre, Thanh Nien. 
 
 # PAUSE PAGE 1, TEST PAGE
     - title: Associate Professor of Theoretical Physics
