@@ -1,4 +1,3 @@
----
 layout: default
 ---
 
@@ -23,10 +22,9 @@ layout: default
           {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
         {% endif %}
 
-        {% include figure.html
-        path=profile_image_path
-        class=profile_image_class
-        alt=page.profile.image -%}
+        <div class="rounded-circle">
+          <img src="{{ profile_image_path }}" class="{{ profile_image_class }}" alt="{{ page.profile.image }}">
+        </div>
 
         <div class="clearfix">
           {{ content }}
@@ -48,7 +46,4 @@ layout: default
     </div>
     {% endif %}
   </article>
-</div>
-
-
 </div>
