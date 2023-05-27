@@ -28,24 +28,24 @@
       institution: Tran Dai Nghia High school For the Gifted (Vietnam)
       year: 2020 - 2023
       description:
-        - #1 secondary school in Southern Vietnam (<10% acceptance rate)
+        - Top 1 secondary school in Southern Vietnam (<10% acceptance rate)
         - GPA Grade 9: 9.4/10.0 (A) 
-
-
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Founder
+      institution: Chicken Minds
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        -  Organise "Lớp học Bay" – a non-profit online class run by 150 members from gifted schools in Vietnam that instructs 300 9th-grade students in Literature, Mathematics, English, Chemistry, and Physics at the Honor level to enter gifted high schools and Tier 1 high schools in Vietnam. 
+        - Reached 116,000+ people, attracted 60,000+ visits, 20,000+ followers on Facebook page in just 1 year. 
+        - Hosted "Bít & Típ" – a podcast that invited 10 inspirational individuals in various fields, such as STEM education, culture, and literature, to share their journey to success. Gained 100,000+ views on Youtube.
+
+        - title: # Description 3.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - # Sub-description 1.
+            - # Sub-description 2.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
