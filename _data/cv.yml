@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Bachelor
-      institution: University of South Florida, United States
+      institution: `University of South Florida, United States`
       year: 2023 - 2027
 
     - title: High School Diploma
