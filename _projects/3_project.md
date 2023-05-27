@@ -7,7 +7,7 @@ importance: 1
 category: past
 permalink: projects/202X-Dictionary
 ---
- <iframe src="phannhatnamlhp.github.io/assets/pdf/Social Enterprise - Phan Nhat Nam 202X.pdf" width="100%" height="600px"></iframe>
+ <iframe src="Social Enterprise - Phan Nhat Nam 202X.pdf" type="application/pdf" width="100%" height="600px"></iframe>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
