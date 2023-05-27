@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: 202X Dictionary
+description: The first book I am the co-author of.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 1
+category: past
+permalink: projects/202X-Dictionary
 ---
 
 Every project has a beautiful feature showcase page.
