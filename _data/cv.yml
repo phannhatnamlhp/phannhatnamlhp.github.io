@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor &#58&#58&#58&#58
+    - title: Bachelor
       institution: University of South Florida, United States
       year: 2023 - 2027
 
@@ -19,16 +19,16 @@
       institution: Le Hong Phong High school For the Gifted (Vietnam) (Physics Honor)
       year: 2020 - 2023
       description:
-        - <p>#1</p> among high schools in Southern Vietnam (17% acceptance rate) 
+        - &num;1 among high schools in Southern Vietnam (17% acceptance rate) 
         - Honour Class Physics | Average <p>GPA:</p> 8.7/10
-        - SAT <p>Superscore:</p> 1460 (660 ERBW, 800 M) | <p>Duolingo:</p> 130/160
+        - SAT Superscore&#58; 1460 (660 ERBW, 800 M) | Duolingo&#58; 130/160
 
     - title: Secondary School Diploma
       institution: Tran Dai Nghia High school For the Gifted (Vietnam)
       year: 2020 - 2023
       description:
-        - <p>#1</p> secondary school in Southern Vietnam (<10% acceptance rate)
-        - GPA Grade <p>9:</p> 9.4/10.0 (A) 
+        - &num;1 secondary school in Southern Vietnam (<10% acceptance rate)
+        - GPA Grade 9&#58; 9.4/10.0 (A) 
 
 - title: Experience
   type: time_table
@@ -57,8 +57,8 @@
       institution: 202X Dictionary, VinUniversity, Vietnam.
       year: 2022
       description:
-        - Book’s original name <p>(in Vietnamese):</p>  ‘Từ điển 202X’, <u>publisher:</p> Alpha Books, in 2022.
-        - Article belongs to the Business section, <p>topic:</p> Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
+        - Book’s original name (in Vietnamese)&#58; ‘Từ điển 202X’, publisher&#58; Alpha Books, in 2022.
+        - Article belongs to the Business section, topic&#58; Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
 
     - title: Project Leader, Raisefunding Manager
       institution: Book & Friend Club
@@ -66,7 +66,7 @@
       description: 
         - Raisefunded 2,000+ books for Hon Chuoi island in 2016 and 500+ books for 10 community libraries.
         - Hosted 6 events to connect with readers and cultural organisations with 200+ participants per event.
-        - Featured in several reputational e-magazines and televisions in <p>Vietnam:</p> HTV, Tuoi Tre, Thanh Nien. 
+        - Featured in several reputational e-magazines and televisions in Vietnam&#58; HTV, Tuoi Tre, Thanh Nien. 
 
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
