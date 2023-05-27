@@ -29,15 +29,6 @@
       description:
         - Top secondary school in Southern Vietnam (<10% acceptance rate)
         - GPA Grade 9&#58 9.4/10.0
-
-- title: #Professional work
-  type: #time_table
-  contents:
-    - title:
-      institution: 
-      year: 
-      description:
-        
         
 - title: Experience
   type: time_table
