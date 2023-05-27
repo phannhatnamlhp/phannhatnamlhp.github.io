@@ -7,7 +7,7 @@ importance: 1
 category: past
 permalink: projects/202X-Dictionary
 ---
- <embed src="Social Enterprise - Phan Nhat Nam 202X.pdf" width="100%" height="600px"/>
+ <embed src="https://drive.google.com/file/d/1wvEg9dwgY5bMSKPkM9m08PjkrpKCRfzO/view?usp=sharing" width="100%" height="600px"/>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
