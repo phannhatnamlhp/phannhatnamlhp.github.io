@@ -2,10 +2,24 @@
 layout: page
 title: Chicken Minds
 description: Where I have contributed my youth for the last 2 years (and beyond).
-img: assets/img/12.jpg
+img: assets/img/273145475_267655475510768_1600593732790575461_n.jpg
 importance: 1
-category: work
+category: project
 ---
+
+Look at my team: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_Y5pk08KOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
