@@ -14,14 +14,6 @@
     - title: Bachelor
       institution: University of South Florida, United States
       year: 2023 - 2027
-
- - title: Professional work
-   type: time_table
-   contents:
-      institution: Microsoft
-      year: 2025 - 2027
-      description:
-        - I just test.
     
     - title: High School Diploma
       institution: Le Hong Phong High school For the Gifted, Vietnam (Physics Honor)
@@ -38,6 +30,15 @@
         - Top secondary school in Southern Vietnam (<10% acceptance rate)
         - GPA Grade 9&#58 9.4/10.0
 
+- title: Professional work
+  type: time_table
+  contents:
+    - title: Intern
+      institution: Microsoft
+      year: 2025 - 2027
+      description:
+        - I just test.
+        
 - title: Experience
   type: time_table
   contents:
