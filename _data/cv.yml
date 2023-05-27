@@ -30,14 +30,14 @@
         - Top secondary school in Southern Vietnam (<10% acceptance rate)
         - GPA Grade 9&#58 9.4/10.0
 
-- title: Professional work
-  type: time_table
+- title: #Professional work
+  type: #time_table
   contents:
-    - title: Intern
-      institution: Microsoft
-      year: 2025 - 2027
+    - title:
+      institution: 
+      year: 
       description:
-        - I just test.
+        
         
 - title: Experience
   type: time_table
