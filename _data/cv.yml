@@ -2,31 +2,25 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Phan Nhat Nam
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th July 2005
     - name: Languages
-      value: English, German
+      value: Vietnamese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor
+      institution: University of South Florida, United States
+      year: 2023 - 2027
+    - title: High School Diploma
+      institution: Le Hong Phong High school For the Gifted (Vietnam) (Physics Honor)
+      year: 2020 - 2023
+    - title: Secondary School Diploma
+      institution: Tran Dai Nghia High school For the Gifted (Vietnam)
+      year: 2020 - 2023
+
 
 - title: Experience
   type: time_table
