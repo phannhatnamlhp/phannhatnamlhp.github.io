@@ -9,7 +9,7 @@ category: project
 
 Look at my team: 
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/c_Y5pk08KOI" title="Chicken Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_Y5pk08KOI" title="Chicken Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
