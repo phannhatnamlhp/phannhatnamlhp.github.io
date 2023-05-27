@@ -5,6 +5,7 @@ description: I have started this club since 2015.
 img: assets/img/3.jpg
 importance: 2
 category: present
+permalink: projects/littlestarsscienceclub/
 ---
 
 Every project has a beautiful feature showcase page.
