@@ -8,19 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Phan Nhat Nam starts his `community service journey` at a very young age. In 2014, he participated in the `'Help Portrait'` photography program. Nam and the team took photos of the elderly in Cu Chi Province to give those people happiness and belief in life. In 2015, he participated in a `charity trip` with Tran Dang Tuan - Founder of Com Co Thit - Quy Tro Ngheo Vung Cao, Former Deputy General Director of Vietnam Television in Tuan Giao district, Dien Bien Province. After that trip, Nam realized that `he was a lucky boy`. He had good conditions to grow and study while poverty families didn't even have one smartphone. Since then, he has kept `thinking about contributing to his country more and more`.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+With that in mind, he and his mother created the `'Little Stars Science Club'` in 2015 with science classes and field trips to help Ho Chi Minh City students develop their soft skills and enrich their knowledge in general sciences through projects and experiments. They also organize short trips to `plant trees on bare hills` and `donate necessities to poverty`. After six years, his dedication to education has led him to create Chicken Minds.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Until now, he still keeps in mind that`many people need help` - not only in the past and the present but also in the future. He manages `critical titles` in those organizations with heavy workloads, but he always pays attention to improving himself by studying well at school and studying further. He graduated from `Tran Dai Nghia Specialized School`, studying in `Le Hong Phong Specialized School`, but was still certified as `Microsoft Innovative Educator Master Trainer, Microsoft Certified Educator, Microsoft Esport Leader`, and more.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Nam is 17 years old at the time. But don't worry, Nam does not look conceited. He is growing daily because he knows: community serving is not a period. He has to maintain that [community-serving] mindset `until the end of his life`.
