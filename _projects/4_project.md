@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Book & Friend Club
+description: I have participated in this club for 6 years.
 img:
 importance: 3
-category: fun
+category: past
 ---
 
 Every project has a beautiful feature showcase page.
