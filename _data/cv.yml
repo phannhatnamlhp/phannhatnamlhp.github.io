@@ -21,14 +21,14 @@
       description:
         - &num;1 among high schools in Southern Vietnam (17% acceptance rate) 
         - Honour Class Physics | Average <p>GPA:</p> 8.7/10
-        - SAT Superscore&#58; 1460 (660 ERBW, 800 M) | Duolingo&#58; 130/160
+        - SAT Superscore&#58 1460 (660 ERBW, 800 M) | Duolingo&#58 130/160
 
     - title: Secondary School Diploma
       institution: Tran Dai Nghia High school For the Gifted (Vietnam)
       year: 2020 - 2023
       description:
         - &num;1 secondary school in Southern Vietnam (<10% acceptance rate)
-        - GPA Grade 9&#58; 9.4/10.0 (A) 
+        - GPA Grade 9&#58 9.4/10.0 (A) 
 
 - title: Experience
   type: time_table
@@ -57,7 +57,7 @@
       institution: 202X Dictionary, VinUniversity, Vietnam.
       year: 2022
       description:
-        - Book’s original name (in Vietnamese)&#58; ‘Từ điển 202X’, publisher&#58; Alpha Books, in 2022.
+        - Book’s original name (in Vietnamese)&#58 ‘Từ điển 202X’, publisher&#58 Alpha Books, in 2022.
         - Article belongs to the Business section, topic&#58; Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
 
     - title: Project Leader, Raisefunding Manager
