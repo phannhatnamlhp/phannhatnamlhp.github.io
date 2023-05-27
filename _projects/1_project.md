@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Chicken Minds
+description: Where I have contributed my youth for the last 2 years (and beyond).
 img: assets/img/12.jpg
 importance: 1
 category: work
