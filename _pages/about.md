@@ -6,7 +6,7 @@ subtitle: Founder & Former President of Chicken Minds.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 3561=5x5.jpg
   image_circular: true # crops the image to make it circular
 
 social: true  # includes social icons at the bottom of the page
