@@ -35,19 +35,21 @@
   type: time_table
   contents:
     - title: Founder
-      institution: Chicken Minds
+      institution: The Gifted Battlefield Organization, Vietnam
       year: 2023
+    - title: Founder
+      institution: Chicken Minds Project, Vietnam
+      year: 2021
       description:
         -  Organise "Lớp học Bay" – a non-profit online class run by 150 members from gifted schools in Vietnam that instructs 300 9th-grade students in Literature, Mathematics, English, Chemistry, and Physics at the Honor level to enter gifted high schools and Tier 1 high schools in Vietnam. 
         - Reached 116,000+ people, attracted 60,000+ visits, 20,000+ followers on Facebook page in just 1 year. 
         - Hosted "Bít & Típ" – a podcast that invited 10 inspirational individuals in various fields, such as STEM education, culture, and literature, to share their journey to success. Gained 100,000+ views on Youtube.
-
         - title: # Description 3.
           contents:
             - # Sub-description 1.
             - # Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
+    - title: Co-Founder, Co-President, Science Instructor 
+      institution: Little Stars Science Club, Vietnam
       year: 1933
       description:
         - Description 1.
