@@ -4,7 +4,7 @@ title: Chicken Minds
 description: Where I have contributed my youth for the last 2 years (and beyond).
 img: assets/img/273145475_267655475510768_1600593732790575461_n.jpg
 importance: 1
-category: work
+category: present
 ---
 
 Look at my team: 
