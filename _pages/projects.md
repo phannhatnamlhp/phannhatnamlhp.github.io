@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 description: My LinkedIn, but more accessible and more responsive.
-nav: true
-nav_order: 2
+nav: false
+nav_order:
 display_categories: [present, past]
 horizontal: false
 ---
