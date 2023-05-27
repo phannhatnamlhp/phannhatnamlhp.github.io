@@ -9,9 +9,8 @@ category: project
 
 Look at my team: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_Y5pk08KOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/c_Y5pk08KOI" title="Chicken Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
