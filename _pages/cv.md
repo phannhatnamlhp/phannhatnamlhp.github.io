@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-cv_pdf: Phan Nhat Nam - CV.pdf
+cv_pdf: Jim_Phan_Resume.pdf
 ---
