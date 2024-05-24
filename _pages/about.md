@@ -17,4 +17,4 @@ With that in mind, he and his mother created the `'Little Stars Science Club'` i
 
 Until now, he still keeps in mind that`many people need help` - not only in the past and the present but also in the future. He manages `critical titles` in those organizations with heavy workloads, but he always pays attention to improving himself academically and professionally.
 
-Nam is 17 years old at the time. But don't worry, Nam does not look conceited. He is growing daily because he knows: community serving is not a period. He has to maintain that [community-serving] mindset `until the end of his life`.
+He accepted his position as a Workday Systems Analyst Co-Op at Bain & Company in Boston office and will start working from July 2024.
