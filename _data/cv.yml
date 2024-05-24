@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Phan Nhat Nam
+      value: Jim Phan
     - name: Date of Birth
       value: 25th July 2005
     - name: Languages
@@ -20,7 +20,7 @@
       year: 2020 - 2023
       description:
         - Top high school in Southern Vietnam (17% acceptance rate) 
-        - Honour Class Physics | Average GPA&#58 8.7/10
+        - Honor in Physics | Average GPA&#58 8.7/10
         - SAT Superscore&#58 1460 (660 ERBW, 800 M) | Duolingo&#58 130/160
 
     - title: Secondary School Diploma
