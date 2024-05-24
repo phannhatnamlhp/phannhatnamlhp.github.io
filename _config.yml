@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Phan Nhat Nam # the website title (if blank, full name will be used instead)
-first_name: Nam
-middle_name: Nhat
+title: Jim Phan # the website title (if blank, full name will be used instead)
+first_name: Jim
+middle_name: (Nam)
 last_name: Phan
 email: nhatnam.jim@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -73,7 +73,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: jim-phan
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
