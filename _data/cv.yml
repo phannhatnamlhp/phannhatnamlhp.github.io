@@ -37,55 +37,54 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Founder
+    - title: Informatic Technology Intern, STEM Assistant
+      institution: Sao Mai Long Son Kindergarten, Vietnam
+      year: 2021 - Present
+      description: 
+        - Configured Google Suite & Microsoft Education system and contributed to engineering an audiobook library with Power Apps.
+        - Hosted Office, Canva, and Kahoot training sessions for teachers, following Microsoft Innovative Educator Master Trainer standards.
+        - Streamlined STEM events and in-class activities for 25 children during the summers of 2021 and 2022 using the 21CLD framework.
+    
+    - title: Founder, Head of Executive Committee & Finance Advisor
       institution: The Gifted Battlefield Organization, Vietnam
       year: 2023
-      
-    - title: Founder
-      institution: Chicken Minds Project, Vietnam
-      year: 2021
       description:
-        - Organise "Lớp học Bay" – a non-profit online class run by 150 members from gifted schools in Vietnam that instructs 300 9th-grade students in Literature, Mathematics, English, Chemistry, and Physics at the Honor level to enter gifted high schools and Tier 1 high schools in Vietnam. 
-        - Reached 116,000+ people, attracted 60,000+ visits, 20,000+ followers on Facebook page in just 1 year. 
-        - Hosted "Bít & Típ" – a podcast that invited 10 inspirational individuals in various fields, such as STEM education, culture, and literature, to share their journey to success. Gained 100,000+ views on Youtube.
-    
+        - Advised on financing for 2 workshops. Attracted 354 9th-grade participants, receiving ticket revenue and sponsorship total of $2,000.
+        - Spearheaded 400+ high school students to organize online classes & mock test communities for 800+ junior high school students.
+        - Optimized Power Automate workflows to reduce resume screening time by 50% (400 profiles processed in 1 instead of 2 weeks).
+        - Coordinated extensive training sessions in building automated workflows in Microsoft Education and Google for Education platforms.
+      
+       
     - title: Co-Founder, Co-President, Science Instructor 
       institution: Little Stars Science Club, Vietnam
       year: 2022
       description:
-        - Organised 100+ science field trips and events to provide experimental STEM education programs for 2,000+ children countrywide from 6 to 15 years old. 
-        - Made a profit of $10,000, distributed to organise non-profit STEM events for children in rural areas with limited involvement in STEM studies and buying necessities for students over the past 7 years. 
-        - Created specialised programs to interact with 100 autistic science lovers from 6 to 15 years old. 
+        - Organized 100+ for-profit programs to expand experimental STEM education to 2,000+ children from 6 to 15 years old.
+        - Distributed $10,000 to conduct non-profit STEM events for children in rural areas and buy study necessities for students.
+        - Collaborated with professional psychologists to build specialized non-profit STEM programs for 100 autistic science lovers.
+
         
     - title: Co-Author in Business Section
       institution: 202X Dictionary, VinUniversity, Vietnam.
       year: 2022
       description:
         - Link&#58 <a href="https://phannhatnam.com/assets/pdf/Social%20Enterprise%20-%20Phan%20Nhat%20Nam%20202X.pdf">here.</a>
-        - Book’s original name&#58 ‘Từ điển 202X’, publisher&#58 Alpha Books, in 2022.
+        - Book’s original name&#58 ‘Từ điển 202X’, published by Alpha Books in 2022.
         - Article belongs to the Business section, topic&#58 Social Enterprise, discussing about how social ennterprise model can be a pragmatic choice for future business owners. 
 
     - title: Project Leader, Raisefunding Manager
       institution: Book & Friend Club, Vietnam
       year: 2016 - 2022
       description: 
-        - Raisefunded 2,000+ books for Hon Chuoi island in 2016 and 500+ books for 10 community libraries.
-        - Hosted 6 events to connect with readers and cultural organisations with 200+ participants per event.
-        - Featured in several reputational e-magazines and televisions in Vietnam&#58 HTV, Tuoi Tre, Thanh Nien. 
-
-    - title: Informatic Technology Intern, STEM Assistant
-      institution: Sao Mai Long Son Kindergarten, Vietnam
-      year: 2021 - 2023
-      description: 
-        - Manage the kindergarten’s technical aspects&#58 provide technical training sessions for the principal and teachers, maintain the email system, and build the kindergarten’s website.
-        - Organised STEM events and in-class activities for 25 kids from the summer of June to August 2022. 
+        - Managed a team of 11 students to obtain 2,000+ books for Hon Chuoi Island through a book-raising campaign in 2016.
+        - Organized 6 events to connect with cultural organizations in Vietnam from North to South in 2018 (1,000+ participants engaged).
         
     - title: Blogger
       institution: One Mind Per Day, Online
       year: 2021 - 2023
       description: 
         - Wrote 100 posts on onemindperday.com in different topics relating to social life, education, business, and my sharings in social topics.
-        - Link&#58 to the blog (written in Vietnamese)      
+        - <a href="https://blog.phannhatnam.com/">Link&#58 to the blog</a> (written in Vietnamese).
        
     - title: Founder & Website Developer
       institution: ECO-FARM, Vietnam
