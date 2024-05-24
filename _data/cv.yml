@@ -3,10 +3,14 @@
   contents:
     - name: Full Name
       value: Jim Phan
-    - name: Date of Birth
-      value: 25th July 2005
-    - name: Languages
-      value: Vietnamese, English
+    - name: City
+      value: Tampa, Florida, United States
+    - name: Phone Number
+      value: +1 (656) 204-6978
+    - name: Email
+      value: nhatnam.jim@gmail.com <a href="mailto:nhatnam.jim@gmail.com">nhatnam.jim@gmail.com</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/jim-phan/">in/jim-phan/</a>
 
 - title: Education
   type: time_table
