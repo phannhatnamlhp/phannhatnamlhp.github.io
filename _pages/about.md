@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Founder & Former President of Chicken Minds.
+subtitle: Incoming Workday Systems Analyst Co-Op @ Bain & Company | Finance & Econometrics @ USF | MOS Expert 2019 | Microsoft Certified Educator
 
 profile:
   align: right
