@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  *Incoming Workday Systems Analyst Co-Op @ Bain & Company | Finance & Econometrics '26 @ University of South Florida | Microsoft Office Specialist Expert 2019 | Microsoft Certified Educator*
+subtitle: Incoming Workday Systems Analyst Co-Op @ Bain & Company | Finance & Econometrics '26 @ University of South Florida | Microsoft Office Specialist Expert 2019 | Microsoft Certified Educator
 
 profile:
   align: right
