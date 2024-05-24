@@ -7,10 +7,10 @@
  ******************************************************************************/
 :root {
   --global-bg-color: #ffffff;
-  --global-code-bg-color: #ffcc73;
+  --global-code-bg-color: #dcf2f7;
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #e2b714;
+  --global-theme-color: #1d99b5;
   --global-hover-color: #000000;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
@@ -49,7 +49,7 @@
 
 html[data-theme=dark] {
   --global-bg-color: #1C1C1D;
-  --global-code-bg-color: #ffcc73;
+  --global-code-bg-color: #946669;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
   --global-theme-color: #e2b714;
