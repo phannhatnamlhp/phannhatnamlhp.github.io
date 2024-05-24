@@ -18,22 +18,7 @@
         - GPA&#58 4.0/4.0
         - Relevant Coursework&#58 Statistics I, Price Theory, Principle of Financial Accounting
         - Awards&#58 Green & Gold Scholarship, First-Place in Junior Enterprise KPMG Case Competition&#58 Banking the Unbanked
-        
-    - title: High School Diploma
-      institution: Le Hong Phong High school For the Gifted, Vietnam (Physics Honor)
-      year: 2020 - 2023
-      description:
-        - Top high school in Southern Vietnam (17% acceptance rate) 
-        - Honor in Physics | Average GPA&#58 8.7/10
-        - SAT Superscore&#58 1460 (660 ERBW, 800 M) | Duolingo&#58 130/160
-
-    - title: Secondary School Diploma
-      institution: Tran Dai Nghia High school For the Gifted, Vietnam
-      year: 2020 - 2023
-      description:
-        - Top secondary school in Southern Vietnam (<10% acceptance rate)
-        - GPA Grade 9&#58 9.4/10.0
-        
+                
 - title: Work Experience
   type: time_table
   contents:
