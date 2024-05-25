@@ -164,3 +164,13 @@
     - year: 2019
       items: 
         - Australian National Chemistry Quiz (High Distinction)
+
+- title: Certifications, Skills, and Interests
+  type: map
+  contents:
+    - name: Certifications
+      value: Microsoft Office Specialist Master 2019 (Word Expert, Excel Expert), Microsoft Office Specialist Associate 2019 (Word, Excel, PowerPoint), Accounting Fundamentals, Power BI Fundamentals, Fundamental of Data Analysis in Excel, Power Query Fundamentals, Introduction to Business Valuation (CFI™), Microsoft Certified Educator.
+    - name: Technical Skills
+      value: Microsoft Word, Excel, PowerPoint, Power BI, Power Apps, Power Automate, Tableau, Financial Modeling.
+    - name: Interests
+      value: Wall Street Journal, Teaching, Trading, Flag Football, Podcasting, Web Design, Running, Poetry, Andrew Carnegie.
