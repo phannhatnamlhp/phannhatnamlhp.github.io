@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: A Glance of Jim
 permalink: /
 subtitle: Incoming Workday Systems Analyst Co-Op @ Bain & Company | Finance & Econometrics '26 @ University of South Florida | Microsoft Office Specialist Expert 2019 | Microsoft Certified Educator
 
